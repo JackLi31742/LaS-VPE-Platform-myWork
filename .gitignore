@@ -1,0 +1,14 @@
+bin/
+models/
+sbin/
+lib/
+.settings/
+.git/
+.cache-main
+.cache-tests
+.classpath
+.project
+README.md
+src/native/detection/lib/ssd.pytorch/
+src/native/detection/
+src/native/faster/
